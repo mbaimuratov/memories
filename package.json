@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.19.0"
+  }
+}
